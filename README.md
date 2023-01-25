@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#I am currently working on an expanding project as part of a Knowledge Mining course to expand my research data collection skillset.
+I am currently working on an expanding project as part of a Knowledge Mining course to expand my research data collection skillset.
 <!--
 **jamesnorcross/jamesnorcross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
