@@ -1,6 +1,6 @@
 ### Hi there 👋
+Cybersecurity faculty member of the School of Engineering, Technology, Mathematics, and Science at Dallas College. Concurrently pursuing a PhD in Public Affairs at the University of Texas at Dallas with a research focus in local government Cybersecurity and Information Systems.
 
-A repository focused towards personally-directed academic research in Local Government Cybersecurity and Information Systems.
 <!--
 **jamesnorcross/jamesnorcross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
